@@ -1,4 +1,5 @@
 # ibm_data
 Repo for ibm Data Analysis 
 
-|_ python_project
+Python Project Final Assignment 
+---> for Tesla and GameStop Stock Data Analysis
